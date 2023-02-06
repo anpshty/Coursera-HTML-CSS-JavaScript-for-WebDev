@@ -67,8 +67,6 @@ li{
 	background-color: rgba(0,0,0,0.2);
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	padding: 20px;
-	border-color:black;
-	border-width: 5px;
 }
 .item-name{
 	text-align: center;
