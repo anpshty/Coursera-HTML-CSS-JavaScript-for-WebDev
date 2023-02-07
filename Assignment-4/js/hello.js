@@ -5,5 +5,5 @@
     helloPrinter.print = function (names) {
       console.log(printWord + " " + names);
     }
-        window.helloPrinter = hello;
+        window.helloPrinter = helloPrinter;
     })(window);
