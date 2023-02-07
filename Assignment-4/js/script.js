@@ -6,10 +6,10 @@
     
       var firstLetter = names[i].charAt(0).toLowerCase();
       if (firstLetter === 'j') {
-        goodbye.print(names[i]);
+        goodbyePrinter.print(names[i]);
       } 
       else {
-        hello.print(names[i]);
+        helloPrinter.print(names[i]);
       }
     }
     
